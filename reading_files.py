@@ -1,4 +1,4 @@
-# To read type of files in python simply use the following format:
+# To read any type of files in python simply use the following:
 
 # with open('filename', 'r') a file:
 #     print(file.read())
